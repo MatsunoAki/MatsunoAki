@@ -8,6 +8,6 @@ I'm a full stack developer, moderator, and college student based in the Philippi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bash,cpp,cs,java,js,mongodb,php,mysql,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,bash,cpp,cs,java,js,mongodb,php,mysql,nodejs,py,react,tailwind" />
   </a>
 </p>
